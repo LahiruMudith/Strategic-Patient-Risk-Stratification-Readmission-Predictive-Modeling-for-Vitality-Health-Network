@@ -50,7 +50,6 @@ coverage.xml
 .idea/
 
 # VS Code
-.vscode/
 
 # Virtual environments
 env/
@@ -68,8 +67,6 @@ __pypackages__/
 .python-version
 
 # Environments and secrets
-.env
-.env.*
 local_settings.py
 
 # IDE / editor
@@ -103,3 +100,5 @@ desktop.ini
 *.whl
 dist/
 build/
+config.bat
+node_modules
